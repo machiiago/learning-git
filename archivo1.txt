@@ -1,0 +1,5 @@
+¡Hola!
+
+Este es mi segundo archivo de pruebas... porque el primero lo borré por error
+
+En fin, estoy aprendiendo git :)
