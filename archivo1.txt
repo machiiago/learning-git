@@ -1,5 +1,6 @@
 ¡Hola!
 
-Este es mi segundo archivo de pruebas... porque el primero lo borré por error
+Este es el segundo archivo de pruebas que ahora estoy modificando... me equivoqué con el primero así que tuve que borrarlo
+Esta es una nueva linea 
 
-En fin, estoy aprendiendo git :)
+En fin, estoy aprendiendo git :D
