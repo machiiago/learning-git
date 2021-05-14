@@ -1,6 +1,7 @@
 ¡Hola!
 
-Este es el segundo archivo de pruebas que ahora estoy modificando... me equivoqué con el primero así que tuve que borrarlo
+Este es el segundo archivo de pruebas que ahora estoy modificando (ahora estoy probando los branches)... me equivoqué con el primero así que tuve que borrarlo
 Esta es una nueva linea 
+Esta es una nueva linea creada para el branch master
 
 En fin, estoy aprendiendo git :D
