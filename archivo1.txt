@@ -4,5 +4,6 @@ Este es el segundo archivo de pruebas que ahora estoy modificando (ahora estoy p
 Esta es una nueva linea 
 Esta es una nueva linea creada para probar el -m
 Esta es una nueva linea creada para el branch master
+Nota: modificado desde local
 
 En fin, estoy aprendiendo git :D
